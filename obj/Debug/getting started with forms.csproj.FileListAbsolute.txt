@@ -1,0 +1,101 @@
+K:\getting started with forms\getting started with forms\bin\Debug\getting started with forms.exe.config
+E:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\bin\Debug\getting started with forms.exe.config
+E:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\bin\Debug\getting started with forms.exe
+E:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\bin\Debug\getting started with forms.pdb
+E:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting started with forms.csprojAssemblyReference.cache
+E:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Form1.resources
+E:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Properties.Resources.resources
+E:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting started with forms.csproj.GenerateResource.cache
+E:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting started with forms.csproj.CoreCompileInputs.cache
+E:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting started with forms.exe
+E:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting started with forms.pdb
+E:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Form2.resources
+K:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\bin\Debug\getting started with forms.exe.config
+K:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\bin\Debug\getting started with forms.exe
+K:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\bin\Debug\getting started with forms.pdb
+K:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting started with forms.csprojResolveAssemblyReference.cache
+K:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Form1.resources
+K:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Form2.resources
+K:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Properties.Resources.resources
+K:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting started with forms.csproj.GenerateResource.Cache
+K:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting started with forms.csproj.CoreCompileInputs.cache
+K:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting started with forms.exe
+K:\C# Code and handouts UPDATED\getting started with forms\getting started with forms\obj\Debug\getting started with forms.pdb
+I:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\bin\Debug\getting started with forms.exe.config
+I:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\bin\Debug\getting started with forms.exe
+I:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\bin\Debug\getting started with forms.pdb
+I:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Form1.resources
+I:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Form2.resources
+I:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Properties.Resources.resources
+I:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting started with forms.csproj.GenerateResource.cache
+I:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting started with forms.csproj.CoreCompileInputs.cache
+I:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting started with forms.exe
+I:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting started with forms.pdb
+J:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\bin\Debug\getting started with forms.exe.config
+J:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\bin\Debug\getting started with forms.exe
+J:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\bin\Debug\getting started with forms.pdb
+J:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting started with forms.csprojAssemblyReference.cache
+J:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Form1.resources
+J:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Form2.resources
+J:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Properties.Resources.resources
+J:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting started with forms.csproj.GenerateResource.cache
+J:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting started with forms.csproj.CoreCompileInputs.cache
+J:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting started with forms.exe
+J:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting started with forms.pdb
+I:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Form3.resources
+J:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting_started_with_forms.Form3.resources
+I:\College Work\Amandas Class Work\Coding\getting started with forms\getting started with forms\obj\Debug\getting started with forms.csprojResolveAssemblyReference.cache
+J:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\bin\Debug\getting started with forms.exe.config
+J:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\bin\Debug\getting started with forms.exe
+J:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\bin\Debug\getting started with forms.pdb
+J:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Form1.resources
+J:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Form2.resources
+J:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Form3.resources
+J:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Properties.Resources.resources
+J:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.csproj.GenerateResource.cache
+J:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.csproj.CoreCompileInputs.cache
+J:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.exe
+J:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.pdb
+D:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\bin\Debug\getting started with forms.exe.config
+D:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\bin\Debug\getting started with forms.exe
+D:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\bin\Debug\getting started with forms.pdb
+D:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.csprojResolveAssemblyReference.cache
+D:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Form1.resources
+D:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Form2.resources
+D:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Form3.resources
+D:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Properties.Resources.resources
+D:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.csproj.GenerateResource.Cache
+D:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.csproj.CoreCompileInputs.cache
+D:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.exe
+D:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.pdb
+E:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\bin\Debug\getting started with forms.exe.config
+E:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\bin\Debug\getting started with forms.exe
+E:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\bin\Debug\getting started with forms.pdb
+E:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.csprojResolveAssemblyReference.cache
+E:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Form1.resources
+E:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Form2.resources
+E:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Form3.resources
+E:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Properties.Resources.resources
+E:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.csproj.GenerateResource.Cache
+E:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.csproj.CoreCompileInputs.cache
+E:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.exe
+E:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.pdb
+I:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\bin\Debug\getting started with forms.exe.config
+I:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\bin\Debug\getting started with forms.exe
+I:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\bin\Debug\getting started with forms.pdb
+I:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Form1.resources
+I:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Form2.resources
+I:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Form3.resources
+I:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting_started_with_forms.Properties.Resources.resources
+I:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.csproj.GenerateResource.cache
+I:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.csproj.CoreCompileInputs.cache
+I:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.exe
+I:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.pdb
+I:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.csprojResolveAssemblyReference.cache
+J:\College Work\Amandas Class Work\Coding\Panda Cafe Online\getting started with forms\obj\Debug\getting started with forms.csprojAssemblyReference.cache
+E:\College\Amanda\getting started with forms\obj\Debug\getting started with forms.csprojAssemblyReference.cache
+E:\College\Amanda\getting started with forms\obj\Debug\getting started with forms.exe
+E:\College\Amanda\getting started with forms\obj\Debug\getting started with forms.pdb
+F:\College\Amanda\getting started with forms\obj\Debug\getting started with forms.csprojAssemblyReference.cache
+F:\College\Amanda\getting started with forms\obj\Debug\getting started with forms.exe
+F:\College\Amanda\getting started with forms\obj\Debug\getting started with forms.pdb
